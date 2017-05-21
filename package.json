@@ -1,0 +1,23 @@
+{
+  "name": "jestfn-all-the-things",
+  "version": "1.0.0",
+  "description": "codes associated with the blog post",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/deanslamajr/jestfn-all-the-things.git"
+  },
+  "keywords": [
+    "jest",
+    "mocking"
+  ],
+  "author": "dean slama jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deanslamajr/jestfn-all-the-things/issues"
+  },
+  "homepage": "https://github.com/deanslamajr/jestfn-all-the-things#readme"
+}
